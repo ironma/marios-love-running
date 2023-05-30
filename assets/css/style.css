@@ -182,3 +182,8 @@ hr {
 
 }
 
+#times {
+    background: url('../images/dublin-city.webp') no-repeat center;
+    background-size: cover;
+    overflow: hidden;
+}
